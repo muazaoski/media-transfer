@@ -15,7 +15,6 @@ The batch file will:
 
 1. **Install dependencies:**
    ```bash
-   cd "G:\Iphone Media Transfer"
    npm install
    ```
 
