@@ -71,3 +71,22 @@ The batch file will:
 ## Security Note
 
 This server is designed for **local network use only**. It runs on your private network and should not be exposed to the internet.
+
+## About
+
+blip blup blup blip
+
+**Made by Muaz Azri**
+
+A simple, minimalist tool for transferring media files from your mobile device to your PC over a local network. No limits. No cloud. Direct transfer.
+
+### Connect
+
+- Instagram: [@muazaoski](https://www.instagram.com/muazaoski/)
+- X: [@yssrski](https://x.com/yssrski)
+
+## License
+
+MIT License - see [LICENSE](LICENSE) file for details.
+
+Copyright (c) 2025 Muaz Azri
